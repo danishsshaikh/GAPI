@@ -39,8 +39,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Building Blocks
+
+- Tech: React Native, Expo
+- Packages: react-native-responsive-dimensions
+- Tool: Figma
+
 ## Screenshots
 
-![Figma Mock]()
+<img src="https://github.com/danishsshaikh/GAPI/blob/master/GAPI.png" alt="Figma Mock" width="200" />
 
-• Tool: Figma
+
